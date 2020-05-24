@@ -1,0 +1,318 @@
+05-18-2020 @ 11:45:52 - Queuing email notification ID #4
+05-18-2020 @ 11:46:13 - Dispatching llms_notification_processor_email
+05-18-2020 @ 11:46:13 - sending email notification ID #4
+05-18-2020 @ 11:46:16 - error sending email notification ID #4
+05-18-2020 @ 11:46:16 - Array
+(
+    [id] => 4
+    [created] => 2020-05-18 11:45:52
+    [updated] => 2020-05-18 11:45:52
+    [status] => new
+    [type] => email
+    [subscriber] => 2
+    [trigger_id] => manual_payment_due
+    [user_id] => 2
+    [post_id] => 1430
+    [html] => <p>Hello Oliver Stan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1430">pay now</a>.</p>
+<h4>Order #1430</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Buy course now</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1430">Pay Invoice</a></p>
+
+)
+
+05-18-2020 @ 11:46:16 - Processing for llms_notification_processor_email finished
+05-18-2020 @ 11:46:51 - Queuing email notification ID #6
+05-18-2020 @ 11:47:08 - Dispatching llms_notification_processor_email
+05-18-2020 @ 11:47:09 - sending email notification ID #6
+05-18-2020 @ 11:47:11 - error sending email notification ID #6
+05-18-2020 @ 11:47:11 - Array
+(
+    [id] => 6
+    [created] => 2020-05-18 11:46:51
+    [updated] => 2020-05-18 11:46:51
+    [status] => new
+    [type] => email
+    [subscriber] => 2
+    [trigger_id] => manual_payment_due
+    [user_id] => 2
+    [post_id] => 1430
+    [html] => <p>Hello Oliver Stan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1430">pay now</a>.</p>
+<h4>Order #1430</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Buy course now</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1430">Pay Invoice</a></p>
+
+)
+
+05-18-2020 @ 11:47:12 - Processing for llms_notification_processor_email finished
+05-18-2020 @ 11:50:41 - Queuing email notification ID #8
+05-18-2020 @ 11:51:03 - Dispatching llms_notification_processor_email
+05-18-2020 @ 11:51:04 - sending email notification ID #8
+05-18-2020 @ 11:51:06 - error sending email notification ID #8
+05-18-2020 @ 11:51:06 - Array
+(
+    [id] => 8
+    [created] => 2020-05-18 11:50:41
+    [updated] => 2020-05-18 11:50:41
+    [status] => new
+    [type] => email
+    [subscriber] => 2
+    [trigger_id] => manual_payment_due
+    [user_id] => 2
+    [post_id] => 1430
+    [html] => <p>Hello Oliver Stan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1430">pay now</a>.</p>
+<h4>Order #1430</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Buy course now</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1430">Pay Invoice</a></p>
+
+)
+
+05-18-2020 @ 11:51:06 - Processing for llms_notification_processor_email finished
+05-18-2020 @ 11:52:32 - Queuing email notification ID #10
+05-18-2020 @ 11:53:09 - Dispatching llms_notification_processor_email
+05-18-2020 @ 11:53:10 - sending email notification ID #10
+05-18-2020 @ 11:53:12 - error sending email notification ID #10
+05-18-2020 @ 11:53:12 - Array
+(
+    [id] => 10
+    [created] => 2020-05-18 11:52:32
+    [updated] => 2020-05-18 11:52:32
+    [status] => new
+    [type] => email
+    [subscriber] => 1
+    [trigger_id] => manual_payment_due
+    [user_id] => 1
+    [post_id] => 1432
+    [html] => <p>Hello Maros Papan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1432">pay now</a>.</p>
+<h4>Order #1432</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Buy course now</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1432">Pay Invoice</a></p>
+
+)
+
+05-18-2020 @ 11:53:12 - Processing for llms_notification_processor_email finished
+05-19-2020 @ 08:40:40 - Queuing email notification ID #16
+05-19-2020 @ 08:40:53 - Dispatching llms_notification_processor_email
+05-19-2020 @ 08:40:55 - sending email notification ID #16
+05-19-2020 @ 08:40:57 - error sending email notification ID #16
+05-19-2020 @ 08:40:57 - Array
+(
+    [id] => 16
+    [created] => 2020-05-19 08:40:40
+    [updated] => 2020-05-19 08:40:40
+    [status] => new
+    [type] => email
+    [subscriber] => 2
+    [trigger_id] => manual_payment_due
+    [user_id] => 2
+    [post_id] => 1487
+    [html] => <p>Hello Oliver Stan,</p>
+<p>A payment for your subscription to Adobe Illustrator is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1487">pay now</a>.</p>
+<h4>Order #1487</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/adobe-illustrator/">Adobe Illustrator</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Kúpiť kurz</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>15.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1487">Pay Invoice</a></p>
+
+)
+
+05-19-2020 @ 08:40:57 - Processing for llms_notification_processor_email finished
+05-20-2020 @ 07:05:37 - Queuing email notification ID #18
+05-20-2020 @ 07:07:12 - Dispatching llms_notification_processor_email
+05-20-2020 @ 07:07:13 - sending email notification ID #18
+05-20-2020 @ 07:07:16 - error sending email notification ID #18
+05-20-2020 @ 07:07:16 - Array
+(
+    [id] => 18
+    [created] => 2020-05-20 07:05:37
+    [updated] => 2020-05-20 07:05:37
+    [status] => new
+    [type] => email
+    [subscriber] => 3
+    [trigger_id] => manual_payment_due
+    [user_id] => 3
+    [post_id] => 1488
+    [html] => <p>Hello Maros Papan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.</p>
+<p>Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1488">pay now</a>.</p>
+<h4>Order #1488</h4>
+<table style="border-collapse:collapse;color:#222222;font-family:sans-serif;font-size:15px;Margin-bottom:15px;text-align:left;width:100%;">
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Payment Due Date</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Course</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Plan</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;">Buy course now</td>
+</tr>
+<tr style="color:inherit;font-family:inherit;font-size:inherit;">
+<th style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;width:33.3333%;">Amount</th>
+<td style="border-bottom:1px solid #cecece;color:inherit;font-family:inherit;font-size:inherit;padding:10px;"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1488">Pay Invoice</a></p>
+
+)
+
+05-20-2020 @ 07:07:16 - Processing for llms_notification_processor_email finished
+05-23-2020 @ 17:28:07 - Queuing email notification ID #21
+05-23-2020 @ 17:28:09 - Queuing email notification ID #23
+05-23-2020 @ 17:28:22 - Dispatching llms_notification_processor_email
+05-23-2020 @ 17:28:24 - sending email notification ID #21
+05-23-2020 @ 17:28:26 - error sending email notification ID #21
+05-23-2020 @ 17:28:26 - Array
+(
+    [id] => 21
+    [created] => 2020-05-23 17:28:07
+    [updated] => 2020-05-23 17:28:07
+    [status] => new
+    [type] => email
+    [subscriber] => 4
+    [trigger_id] => student_welcome
+    [user_id] => 4
+    [post_id] => 
+    [html] => <p>Hello Maros Papan,</p>
+<p>Here's some helpful information to help you get started at Spojená škola v Nižnej.</p>
+<p><b>Your Login</b>: marost1@centrum.sk</p>
+<p><b>Your Dashboard</b>: <a href="http://localhost/skola_projekt/dashboard/">http://localhost/skola_projekt/dashboard/</a></p>
+<p>If you forgot or don't have a password you can reset it now so you can login and get started: <a href="http://localhost/skola_projekt/dashboard/lost-password/">http://localhost/skola_projekt/dashboard/lost-password/</a></p>
+
+)
+
+05-23-2020 @ 17:28:26 - sending email notification ID #23
+05-23-2020 @ 17:28:28 - error sending email notification ID #23
+05-23-2020 @ 17:28:28 - Array
+(
+    [id] => 23
+    [created] => 2020-05-23 17:28:09
+    [updated] => 2020-05-23 17:28:09
+    [status] => new
+    [type] => email
+    [subscriber] => 4
+    [trigger_id] => manual_payment_due
+    [user_id] => 4
+    [post_id] => 1600
+    [html] => <p>Hello Maros Papan,</p>
+<p>A payment for your subscription to Photoshop tutorial is due.<br />
+ Sign in to your account and <a href="http://localhost/skola_projekt/dashboard/orders/1600">pay now</a>. </p>
+<h4>Order #1600</h4>
+<table style="border-collapse: collapse;color: #222222;font-family: sans-serif;font-size: 15px;margin-bottom: 15px;text-align: left;width: 100%">
+<tbody>
+<tr style="color: inherit;font-family: inherit;font-size: inherit">
+<th style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px;width: 33.3333%">Payment Due Date</th>
+<td style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px"></td>
+</tr>
+<tr style="color: inherit;font-family: inherit;font-size: inherit">
+<th style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px;width: 33.3333%">Course</th>
+<td style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px"><a href="http://localhost/skola_projekt/course/photoshop/">Photoshop tutorial</a></td>
+</tr>
+<tr style="color: inherit;font-family: inherit;font-size: inherit">
+<th style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px;width: 33.3333%">Plan</th>
+<td style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px">Buy course now</td>
+</tr>
+<tr style="color: inherit;font-family: inherit;font-size: inherit">
+<th style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px;width: 33.3333%">Amount</th>
+<td style="border-bottom: 1px solid #cecece;color: inherit;font-family: inherit;font-size: inherit;padding: 10px"><span class="lifterlms-price"><span class="llms-price-currency-symbol">&euro;</span>20.00</span></td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://localhost/skola_projekt/dashboard/orders/1600">Pay Invoice</a></p>
+
+)
+
+05-23-2020 @ 17:28:29 - Processing for llms_notification_processor_email finished
